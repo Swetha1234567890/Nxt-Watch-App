@@ -1,0 +1,13 @@
+.dark-sidebar-container {
+  background-color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.side-bar-container {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #1e293b;
+}

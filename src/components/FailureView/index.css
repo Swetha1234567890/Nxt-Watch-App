@@ -1,0 +1,33 @@
+.f-img {
+  height: 200px;
+  width: 250px;
+}
+
+.heading-dark {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.fl-about {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading-light {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.retry-btn {
+  background-color: #4f46e5;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+  border-style: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+}

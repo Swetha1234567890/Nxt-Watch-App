@@ -1,0 +1,50 @@
+.background {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  box-shadow: 0px 4px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.login-btn {
+  margin-top: 15px;
+  background-color: #3b82f6;
+  border-style: none;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  height: 40px;
+  border-radius: 5px;
+  width: 280px;
+}
+
+.check-box-container {
+  display: flex;
+}
+
+.watch-logo {
+  height: 50px;
+}
+
+.input-box {
+  height: 38px;
+  width: 280px;
+  border-radius: 5px;
+  margin-top: 5px;
+  font-family: 'Roboto';
+}

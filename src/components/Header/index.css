@@ -1,0 +1,109 @@
+@media screen and (min-width: 768px) {
+  .mobile-icons-container {
+    display: none;
+  }
+}
+
+.website-logo {
+  height: 60px;
+  width: 130px;
+}
+
+.theme-btn {
+  background-color: transparent;
+  border-style: none;
+  height: 60px;
+  width: 60px;
+}
+
+.profile-img {
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+}
+
+.light-logout-btn {
+  background-color: #3b82f6;
+  color: #f4f4f4;
+  border-style: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.dark-logout-btn {
+  border-style: solid;
+  border-color: #f4f4f4;
+  color: #f4f4f4;
+  font-family: 'Roboto';
+  font-size: 14px;
+  height: 40px;
+  width: 100px;
+  background-color: transparent;
+}
+
+.dark-cancel-btn {
+  border-style: solid;
+  border-color: #f4f4f4;
+  color: #f4f4f4;
+  font-family: 'Roboto';
+  font-size: 14px;
+  height: 40px;
+  width: 100px;
+  background-color: transparent;
+}
+
+.light-cancel-btn {
+  border-style: solid;
+  border-color: #475569;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  height: 40px;
+  width: 100px;
+  background-color: transparent;
+}
+
+.confirm-btn {
+  background-color: #3b82f6;
+  color: #f4f4f4;
+  border-style: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.dark-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.light-text {
+  color: #3b82f6;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+@media screen and (max-width: 576px) {
+  .icons-dark-container {
+    display: none;
+  }
+  .hamburger-btn {
+    background-color: transparent;
+    border-style: none;
+  }
+  .mobile-logout-btn {
+    background-color: transparent;
+    border-style: none;
+    margin-left: 10px;
+  }
+}
